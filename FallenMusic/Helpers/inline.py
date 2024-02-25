@@ -34,7 +34,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="☁️ Sᴏᴜʀᴄᴇ ☁️", url="https://github.com/TheVepeX"
+            text="☁️ Sᴏᴜʀᴄᴇ ☁️", url=""
         ),
         InlineKeyboardButton(text="🥀 Dᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
@@ -44,17 +44,19 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="✦ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ✦",
+            text="✦ 
+            Add to your group ✦",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [
-        InlineKeyboardButton(text="❄ Cʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
+  
+    
         InlineKeyboardButton(text="✨ Sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="☁️ Sᴏᴜʀᴄᴇ ☁️", url="https://github.com/aTROX"
+            text="☁️ Sᴏᴜʀᴄᴇ ☁️", url="https://github.com/Starshinning03/AnobnXMusic
+        "
         ),
         InlineKeyboardButton(text="🥀 Dᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
